@@ -59,9 +59,9 @@ console.log('---- 3. While loop ----');
 console.log('Some stars using while:');
 
       i = 0;
-      
+
     while ( i < stars.length) {
-      console.log('i have logged out each star in the array' , stars[i])
+      console.log('i have logged out each star in the array :' , stars[i])
       i++;
     }
 
